@@ -1,0 +1,12 @@
+{
+  "name": "dependabot-lab-demo",
+  "version": "1.0.0",
+  "description": "Simple demo project for Dependabot lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "dependencies": {
+    "lodash": "4.17.0"
+  }
+}
